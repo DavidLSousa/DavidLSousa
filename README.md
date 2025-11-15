@@ -21,7 +21,7 @@ Tenho experiência em resolver problemas complexos e aplicar boas práticas para
 **[The Flash Cards](https://github.com/DavidLSousa/theflashcards)** (Agosto 2024)  
 - App de estudo em React Native com criação de cartões de pergunta e resposta, simulados por categoria e dashboard de estatísticas.
 
-**ControlF** (Outubro 2025, em desenvolvimento)  
+**[ControlF](https://github.com/DavidLSousa/controlF_back)** (Outubro 2025, em desenvolvimento)  
 - App de gestão financeira com frontend em React Native e backend em Gin.
 
 ---
