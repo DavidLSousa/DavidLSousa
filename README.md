@@ -68,10 +68,11 @@ Tenho experiência desenvolvimento de APIs RESTful escaláveis, microsserviços,
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
 
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=tokyonight_dark&cache_seconds=1800)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=tokyonight_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidLSousa&theme=tokyonight_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidLSousa&theme=tokyonight_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DavidLSousa&theme=tokyonight_dark&utcOffset=-3)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidLSousa&theme=tokyonight_dark&cache_seconds=1900)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidLSousa&theme=tokyonight_dark&cache_seconds=2000)
+
 
 
