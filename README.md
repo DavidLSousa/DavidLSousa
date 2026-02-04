@@ -69,11 +69,7 @@ Tenho experiência desenvolvimento de APIs RESTful escaláveis, microsserviços,
 </div> -->
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidLSousa&theme=dracula)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=dracula)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidLSousa&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=tokyonight_dark)
 
 
 <!-- 
