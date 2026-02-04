@@ -69,7 +69,7 @@ Tenho experiência desenvolvimento de APIs RESTful escaláveis, microsserviços,
 </div> -->
 
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=dark)
 
 
 <!-- 
