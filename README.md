@@ -68,11 +68,21 @@ Tenho experiência desenvolvimento de APIs RESTful escaláveis, microsserviços,
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
 
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidLSousa&theme=dracula)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=dracula)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidLSousa&theme=dracula)
+
+
+<!-- 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidLSousa&theme=tokyonight_dark&cache_seconds=1800)
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidLSousa&theme=tokyonight_dark&cache_seconds=1900)
 
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidLSousa&theme=tokyonight_dark&cache_seconds=2000)
+ -->
 
 
 
