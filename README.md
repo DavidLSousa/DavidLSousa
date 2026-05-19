@@ -11,18 +11,30 @@ Fullstack Developer | Backend & Mobile
 
 ## Sobre mim
 
-Desenvolvedor Backend e Mobile com experiência em **Go**, **Nest.js**, **Nuxt** e **React Native**.
-Tenho experiência desenvolvimento de APIs RESTful escaláveis, microsserviços, plataformas de automação para VPS e aplicações mobile multiplataforma. Experiência em arquiteturas desacopladas, sistemas de pagamento, autenticação JWT e integração de APIs de terceiros. 
+Desenvolvedor Fullstack e Mobile com foco em arquiteturas escaláveis e sistemas de alta disponibilidade. Experiência sólida com TypeScript e Go no desenvolvimento de microsserviços, APIs e aplicações mobile multiplataforma. Atuação na construção de sistemas distribuídos, com aplicação de boas práticas de arquitetura, desacoplamento e observabilidade. Experiência em soluções de pagamento, gestão de VPS e arquiteturas Multi-Tenant.
 
 ---
 
 ## Projetos
 
+**[Xpo-cli](https://xpo-cli.vercel.app)** - Opensource CLI
+- Criação de uma CLI para abstrair a complexidade de builds mobile, substituindo fluxos baseados em Makefiles por uma ferramenta Node.js moderna e tipada. Desenvolvimento de um sistema de tratamento de erros para credenciais Apple/Google durante o processo de build, evitando falhas silenciosas no pipeline.
+
+**[Xpo Launchpad](https://xpo-launchpad.vercel.app)** - Opensource
+- Arquitetura base para React Native (Expo) com foco em escalabilidade. DDD, design tokens (dark/light e multi idiomas), React Query, Axios, mock simples e centralizado sem dependências externas, suporte offline e tooling (Husky, ESLint, Jest).
+
+**[Vixt Framework](https://vixt-framework.vercel.app)** - Opensource
+- Micro-framework Vanilla TypeScript de alto desempenho com arquitetura modular e hardening de segurança integrado.
+- Disponível publicamente no NPM (`@vixt-framework/core`).
+
+**[imovSystem](https://github.com/orgs/imovSystem/repositories)**
+- SAAS para imobiliárias e corretores, com interação com Canal Pro, gerenciamento financeiro e CRM para leads.
+
+**[XPOSystem](https://github.com/orgs/xposystem/repositories)**
+- SAAS para cardápio digital ou vitríne de profissionais e produtos, com uma custumização frontend de versátil, sistema de agendamento e financeiro básico.
+
 **[The Flash Cards](https://github.com/DavidLSousa/theflashcards)**
 - App de estudo em React Native com criação de cartões de pergunta e resposta, simulados por categoria e dashboard de estatísticas.
-
-**[ControlF](https://github.com/DavidLSousa/controlF_back)** (em desenvolvimento)  
-- App de gestão financeira com frontend em React Native e backend em Gin.
 
 ---
 
@@ -36,20 +48,22 @@ Tenho experiência desenvolvimento de APIs RESTful escaláveis, microsserviços,
 ## Habilidades tecnicas
 
 - Linguagens: **TypeScript**, **Go**, familiaridade com **Java**  
-- Frameworks: **Gin**, **Nuxt.js**,**React Native**, **Nest.js**  
+- Frameworks: **Gin**, **Next.js**,**React Native**, **Nest.js**  
 - Banco de Dados: **PostgreSQL**, **MySQL**, **Redis**  
 - Ferramentas: **Git**, **GitHub**, **Docker**, **Ansible** 
-- Mobile: Multiplataforma (iOS e Android)  
-- Autenticação: JWT, refresh token, biometria  
+- Mobile: Multiplataforma (iOS e Android)
+- Autenticação: JWT, refresh token, biometria, RBAC  
 - Comunicação em tempo real com WebSockets  
 
 ---
 
 ## Certificações e Cursos
 
-- AWS - Amazon Lightsail (Alura)  
-- Ciclo de vida de aplicações (Alura)  
-- DevOps: Construindo e gerindo containers com Docker (Alura)  
+- AWS Amazon Lightsail - Alura
+- Ciclo de Vida de Aplicações - Alura
+- DevOps: Construindo e Gerindo Containers com Docker - Alura
+- Segurança Mobile - Alura
+- NGINX: servidor Web, Proxy Reverso e API Gateway - Alura
 
 ---
 
